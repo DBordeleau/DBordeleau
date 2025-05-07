@@ -11,6 +11,7 @@
 - 👨🏼‍🎓 Studying Computer Science at Carleton University<br/>
 - 💼 Seeking **Software Development** & **Engineering roles** for **June 2026 new grads**
 - 🛠️ I am always building things and studying, [I have curated my projects into a portfolio.](https://www.dillonbordeleau.dev/)<br/>
+- 👷🏻 Right now I'm working on a social networking site to help students build more ambitious portfolio projects!
 - 💭 Currently I'm studying systems programming and reading [The Rust Programming Language](https://doc.rust-lang.org/book/)<br/>
 
 ---

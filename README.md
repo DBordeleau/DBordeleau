@@ -11,7 +11,7 @@
 - 👨🏼‍🎓 Studying Computer Science at Carleton University<br/>
 - 💼 Seeking **Software Development** & **Engineering roles** for **June 2026 new grads**
 - 🛠️ I am always building things and studying, [I have curated my projects into a portfolio.](https://www.dillonbordeleau.dev/)<br/>
-- 💭 Currently I'm studying systems programming and reading [The Rust Programming Language](https://doc.rust-lang.org/book/) by _Steve Klabnik, Carol Nichols and Chris Kycho_<br/>
+- 💭 Currently I'm studying systems programming and reading [The Rust Programming Language](https://doc.rust-lang.org/book/)<br/>
 
 ---
 

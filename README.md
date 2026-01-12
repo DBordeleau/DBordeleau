@@ -33,15 +33,6 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
----
-
-### 📊 GitHub Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=dbordeleau&hide=prs,contribs,issues&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=dbordeleau&theme=matrix&no-frame=true&title=Commit,Repositories,Followers,Experience)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 <!-- Footer Banner -->
